@@ -80,7 +80,7 @@ public class Homework2 {
 
         //Написать код, генерирующий случайные числа до тех пор, пока не сгенерируется 999.
         //Вывести номер попытки, с которой получилось получить случайным образом число 999.
-        int count = 0;
+        int count ;
 
         for (count=0; number!=999; count++) {
             number = random.nextInt(1000);
@@ -117,7 +117,7 @@ public class Homework2 {
         //"перевернуть" - значит последние элементы становятся первыми и наоборот.
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
-        int buffer = 0, count;
+        int buffer , count;
         for (count = 0; count < (numbers.length/2 ); count++) {
             buffer = numbers[count];
             numbers[count] = numbers[numbers.length - count - 1];

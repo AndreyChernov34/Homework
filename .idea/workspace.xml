@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aca64e9-0aab-4117-90a6-241ecfa48084" name="Changes" comment="сообщение">
-      <change afterPath="$PROJECT_DIR$/homework2/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/office/office.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/Homework2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722890358545</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="сообщение">
+      <option name="closed" value="true" />
+      <created>1723163036102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723163036102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="сообщение">
+      <option name="closed" value="true" />
+      <created>1723163186851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723163186851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
