@@ -46,7 +46,7 @@ public class Homework2 {
         //С левого нижнего угла к верхнему правому
         int leftDownToRightUpSum = 0;
 
-        int countVertical = 0, countHorizontal = 0;
+        int countVertical , countHorizontal;
 
         for (countVertical = 0; countVertical < arrayOfNumbers.length; countVertical++) {
             for (countHorizontal = 0; countHorizontal < arrayOfNumbers.length; countHorizontal++) {
