@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aca64e9-0aab-4117-90a6-241ecfa48084" name="Changes" comment="сообщение">
-      <change beforePath="$PROJECT_DIR$/src/homework2/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office/manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office/secretar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/office/security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/Homework2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/office.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/office.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +51,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Homework2.executor": "Run",
+    "Application.Runner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/JAVA/Firstproject",
@@ -54,8 +64,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JAVA\Firstproject" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="office" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2.Homework2" />
       <module name="Firstproject" />
@@ -69,8 +85,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="office.Runner" />
+      <module name="Firstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="office.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Homework2" />
       </list>
     </recent_temporary>
@@ -108,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723163186851</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="сообщение">
+      <option name="closed" value="true" />
+      <created>1723163558224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723163558224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

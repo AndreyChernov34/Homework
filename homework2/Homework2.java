@@ -10,6 +10,7 @@ public class Homework2 {
         ex2();
         ex3();
         ex5();
+
     }
 
     public static void ex1() {
