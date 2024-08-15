@@ -1,5 +1,4 @@
 package office;
-
 public class secretar {
     public secretar() {
     }
