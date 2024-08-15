@@ -7,8 +7,6 @@ import homework3.factory.ex2.Samsung;
 import homework3.factory.ex2.factoryIpnone;
 import homework3.factory.ex2.factorySamsung;
 import homework3.pyramid_ex3.Pyramid1;
-import homework3.pyramid_ex3.Pyramid2;
-import homework3.pyramid_ex3.Pyramid3;
 
 public class Runner {
     public static void main(String[] args) {

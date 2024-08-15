@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aca64e9-0aab-4117-90a6-241ecfa48084" name="Changes" comment="сообщение">
-      <change afterPath="$PROJECT_DIR$/src/homework3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/city/ex4/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/city/ex4/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Samsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/factoryIpnone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/factorySamsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/shop_ex1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/shop_ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/shop_ex1/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office/boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/boss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office/manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office/office.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/office.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office/secretar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/secretar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office/security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723201424570</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="сообщение">
+      <option name="closed" value="true" />
+      <created>1723734717235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723734717235</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +237,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/homework3/Runner.java</url>
-          <line>114</line>
+          <line>112</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
