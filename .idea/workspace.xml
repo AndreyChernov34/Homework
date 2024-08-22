@@ -4,7 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aca64e9-0aab-4117-90a6-241ecfa48084" name="Changes" comment="сообщение" />
+    <list default="true" id="0aca64e9-0aab-4117-90a6-241ecfa48084" name="Changes" comment="сообщение">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1_carwash/CarWash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1_carwash/cars/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1_carwash/cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1_carwash/cars/LightCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2_fly/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2_fly/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2_fly/FlyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2_fly/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3_sound_around/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3_sound_around/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3_sound_around/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3_sound_around/abstract_classes/MakingSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3_sound_around/abstract_classes/Speaking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal_abstract/AbstractAlive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal_abstract/AbstractPredator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal_interface/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/animal_interface/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4_darvin/exception/AliveException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firstproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Firstproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/Homework2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/city/ex4/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/city/ex4/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/city/ex4/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/city/ex4/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/factory/ex2/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Cpu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/factory/ex2/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/factory/ex2/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/factory/ex2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/factory/ex2/Samsung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/Samsung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/factory/ex2/factoryIpnone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/FactoryIpnone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/factory/ex2/factorySamsung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/factory/ex2/FactorySamsung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/shop_ex1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/shop_ex1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/shop_ex1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/shop_ex1/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/office.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/Office.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/secretar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/Secretar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/office/security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/office/Security.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +64,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,22 +93,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Homework2.executor": "Debug",
-    "Application.Runner.executor": "Debug",
+    "Application.Runner.executor": "Run",
     "Application.homework3.Runner.executor": "Run",
     "Application.homework3.ex4.Runner.executor": "Run",
     "Application.homework3.shop.Runner.executor": "Run",
     "Application.homework3.shop_ex1.Runner.executor": "Run",
+    "Application.homework4.Runner.executor": "Run",
+    "Application.homework4.ex4_Darvin.Runner.Runner.executor": "Run",
+    "Application.homework4.ex4_Darvin.Runner.executor": "Run",
+    "Application.homework4.ex4_darvin.Runner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAVA/Firstproject",
-    "onboarding.tips.debug.path": "D:/JAVA/Firstproject/src/Main.java"
+    "last_opened_file_path": "D:/JAVA/Firstproject/google_checks.xml",
+    "onboarding.tips.debug.path": "D:/JAVA/Firstproject/src/Main.java",
+    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="homework4.ex4_Darvin.abstractAnimal" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JAVA\Firstproject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\Firstproject" />
+      <recent name="D:\JAVA\Firstproject\src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -66,20 +130,7 @@
       <recent name="office" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework3.Runner">
-    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.Homework2" />
-      <module name="Firstproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.homework4.ex4_darvin.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="office.Runner" />
       <module name="Firstproject" />
@@ -106,19 +157,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework3.ex4.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.ex4.Runner" />
-      <module name="Firstproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework3.ex4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="homework3.shop_ex1.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework3.shop_ex1.Runner" />
       <module name="Firstproject" />
@@ -132,13 +170,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework4.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.Runner" />
+      <module name="Firstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.ex1_carwash.cars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework4.ex4_darvin.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.ex4_darvin.Runner" />
+      <module name="Firstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.ex4_darvin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework4.ex4_darvin.Runner" />
+        <item itemvalue="Application.homework4.Runner" />
         <item itemvalue="Application.homework3.Runner" />
-        <item itemvalue="Application.homework3.shop_ex1.Runner" />
-        <item itemvalue="Application.homework3.ex4.Runner" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Homework2" />
+        <item itemvalue="Application.homework3.shop_ex1.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723735160685</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="сообщение">
+      <option name="closed" value="true" />
+      <created>1723735205616</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723735205616</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,12 +318,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/homework3/Runner.java</url>
-          <line>112</line>
+          <line>109</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -259,10 +331,15 @@
           <line>2</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework4/Runner.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/homework3/city/ex4/House.java</url>
-          <line>19</line>
-          <properties class="homework3.city.ex4.House">
+          <line>23</line>
+          <properties class="homework3.city.ex4.House" method="setStreet">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -270,7 +347,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid3.java</url>
-          <line>4</line>
+          <line>5</line>
           <properties class="homework3.pyramid_ex3.Pyramid3" method="print">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -279,13 +356,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/homework3/pyramid_ex3/Pyramid2.java</url>
-          <line>4</line>
-          <properties class="homework3.pyramid_ex3.Pyramid2" method="print">
+          <line>3</line>
+          <properties class="homework3.pyramid_ex3.Pyramid2">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="16" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

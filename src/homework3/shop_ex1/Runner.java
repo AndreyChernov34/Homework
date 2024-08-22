@@ -14,8 +14,8 @@ public class Runner {
         //- Количество работников больше 2
 
         //Проверить здесь правильность написанного кода, создав покупателя, магазин и запустив проверку от покупателя
-        Customer customer = new Customer("Иванов" );
-        Shop shop = new Shop(false,true,1);
+        Customer customer = new Customer("Иванов");
+        Shop shop = new Shop(false, true, 1);
         customer.checkShop(shop);
 
 

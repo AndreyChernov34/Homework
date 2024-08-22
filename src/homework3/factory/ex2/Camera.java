@@ -1,11 +1,13 @@
 package homework3.factory.ex2;
 
-public class Camera{
-    public int MegaPixel;
+public class Camera {
+    public int megaPixel;
+
     public Camera(int megaPixel) {
-        MegaPixel = megaPixel;
+        megaPixel = megaPixel;
     }
-    public void makePhoto(){
+
+    public void makePhoto() {
         System.out.println("сделано фото\n");
     }
 }

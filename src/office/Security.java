@@ -1,10 +1,13 @@
 package office;
-public class security {
+
+public class Security {
     public String name;
-    public security(String name) {
+
+    public Security(String name) {
         this.name = name;
     }
-    public void Say()    {
+
+    public void say() {
         System.out.println("Дайте аванс");
     }
 }

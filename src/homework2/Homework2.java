@@ -2,9 +2,8 @@ package homework2;
 
 import java.util.Arrays;
 import java.util.Random;
+
 public class Homework2 {
-
-
     public static void main(String[] args) {
         ex1();
         ex2();
@@ -46,7 +45,8 @@ public class Homework2 {
         //С левого нижнего угла к верхнему правому
         int leftDownToRightUpSum = 0;
 
-        int countVertical , countHorizontal;
+        int countVertical;
+        int countHorizontal;
 
         for (countVertical = 0; countVertical < arrayOfNumbers.length; countVertical++) {
             for (countHorizontal = 0; countHorizontal < arrayOfNumbers.length; countHorizontal++) {
@@ -57,8 +57,7 @@ public class Homework2 {
             }
         }
 
-
-        for (countVertical = arrayOfNumbers.length-1; countVertical>0; countVertical--) {
+        for (countVertical = arrayOfNumbers.length - 1; countVertical > 0; countVertical--) {
             for (countHorizontal = 0; countHorizontal < arrayOfNumbers.length; countHorizontal++) {
                 if (countVertical + countHorizontal == arrayOfNumbers.length - 1) {
                     leftDownToRightUpSum = leftDownToRightUpSum + arrayOfNumbers[countVertical][countHorizontal];
@@ -67,25 +66,25 @@ public class Homework2 {
             }
         }
         //Вывести на экран
-                System.out.println("Сумма диагонали левого верхнего угла к нижнему правому ="+leftUpToRightDownSum);
-                System.out.println("Сумма диагонали с левого нижнего угла к верхнему правому ="+leftDownToRightUpSum);
-                System.out.println("___________________________________________");
+        System.out.println("Сумма диагонали левого верхнего угла к нижнему правому =" + leftUpToRightDownSum);
+        System.out.println("Сумма диагонали с левого нижнего угла к верхнему правому =" + leftDownToRightUpSum);
+        System.out.println("___________________________________________");
 
     }
+
     public static void ex3() {
         //Дан распределитель случайных чисел
         Random random = new Random(1);
         //Получение случайного числа
         int number = random.nextInt(1000);
-
         //Написать код, генерирующий случайные числа до тех пор, пока не сгенерируется 999.
         //Вывести номер попытки, с которой получилось получить случайным образом число 999.
-        int count ;
+        int count;
 
-        for (count=0; number!=999; count++) {
+        for (count = 0; number != 999; count++) {
             number = random.nextInt(1000);
         }
-        System.out.println(count + " попыток потребовалось для генерации числа "+number);
+        System.out.println(count + " попыток потребовалось для генерации числа " + number);
     }
 
     public static void ex4() {
@@ -116,13 +115,14 @@ public class Homework2 {
         // Вывести на экран.
         //"перевернуть" - значит последние элементы становятся первыми и наоборот.
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9 };
+        int buffer;
+        int count;
 
-        int buffer , count;
-        for (count = 0; count < (numbers.length/2 ); count++) {
+        for (count = 0; count < (numbers.length / 2); count++) {
             buffer = numbers[count];
             numbers[count] = numbers[numbers.length - count - 1];
             numbers[numbers.length - count - 1] = buffer;
         }
-        System.out.println("Перевернутый массив: "+Arrays.toString(numbers));
+        System.out.println("Перевернутый массив: " + Arrays.toString(numbers));
     }
 }

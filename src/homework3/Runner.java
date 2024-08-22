@@ -2,10 +2,11 @@ package homework3;
 
 import homework3.city.ex4.City;
 import homework3.city.ex4.House;
+import homework3.factory.ex2.FactoryIpnone;
 import homework3.factory.ex2.Iphone;
 import homework3.factory.ex2.Samsung;
-import homework3.factory.ex2.factoryIpnone;
-import homework3.factory.ex2.factorySamsung;
+import homework3.factory.ex2.FactoryIpnone;
+import homework3.factory.ex2.FactorySamsung;
 import homework3.pyramid_ex3.Pyramid1;
 
 public class Runner {
@@ -46,15 +47,13 @@ public class Runner {
         // и корпусом 60х200х15
         //ВНИМАНИЕ! Фабрики создают телефоны без создания экземпляра фабрики!
         //factoryIpnone factoryIpnone = new factoryIpnone();
-        Iphone iphone = factoryIpnone.Product();
-        Samsung samsung = factorySamsung.Product();
-
+        Iphone iphone = FactoryIpnone.product();
+        Samsung samsung = FactorySamsung.product();
 ////        //проверка методов созданных Айфонов
-            iphone.infoCPU();
-            iphone.camera.makePhoto();
+        iphone.infoCpu();
+        iphone.camera.makePhoto();
 ////        //проверка методов созданных Самсунгов
-            samsung.camera.makePhoto();
-
+        samsung.camera.makePhoto();
     }
 
     public static void ex3() {
@@ -80,8 +79,8 @@ public class Runner {
 
         //создать здесь экземпляр класса pyramid1 и вызвать print
 
-        Pyramid1 Pyramid1 = new Pyramid1();
-        Pyramid1.print();
+        Pyramid1 pyramid1 = new Pyramid1();
+        pyramid1.print();
     }
 
     /**
@@ -105,12 +104,10 @@ public class Runner {
 ////        //[] - квадратные скобки - массив
 ////        //{} - объект
 
-        House[] house =new House[2];
-
-        house[0] = new House("Lenina",1);
-        house[1] = new House("Pionerskaya",22);
+        House[] house = new House[2];
+        house[0] = new House("Lenina", 1);
+        house[1] = new House("Pionerskaya", 22);
         City city = new City(house, "Мурманск");
-
         System.out.println(city);
         House house2 = city.getHouses()[0];
         house2.setStreet("Kotova");

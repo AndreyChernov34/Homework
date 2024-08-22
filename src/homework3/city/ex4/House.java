@@ -1,28 +1,34 @@
 package homework3.city.ex4;
 
 public class House {
-    private String Street;
+    private String street;
     private int numberHouse;
+
     public House(String street, int numberHouse) {
-        this.Street = street;
+        this.street = street;
         this.numberHouse = numberHouse;
     }
+
     @Override
-    public String toString () {
+    public String toString() {
         return "House{" +
-                "Название улицы'" + Street + '\'' +
+                "Название улицы'" + street + '\'' +
                 ", Номер дома=" + numberHouse +
                 '}';
     }
+
     public String getStreet() {
-        return Street;
+        return street;
     }
+
     public void setStreet(String nameStreet) {
-               this.Street = nameStreet;
+        this.street = nameStreet;
     }
+
     public int getNumberHouse() {
         return this.numberHouse;
     }
+
     public void setNumberHouse(int numberHouse) {
         this.numberHouse = numberHouse;
     }
