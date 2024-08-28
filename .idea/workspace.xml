@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aca64e9-0aab-4117-90a6-241ecfa48084" name="Changes" comment="сообщение">
-      <change afterPath="$PROJECT_DIR$/src/homework5/ex2_worm/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework5/ex2_worm/ComputerWorm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework5/ex2_worm/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firstproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Firstproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comp.log" beforeDir="false" afterPath="$PROJECT_DIR$/comp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework5/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework5/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,9 @@
     &quot;accountId&quot;: &quot;636b5e43-129b-4629-80ee-28c628191f1a&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -262,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724355770309</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="сообщение">
+      <option name="closed" value="true" />
+      <created>1724730797960</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724730797960</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,11 +311,6 @@
           <url>file://$PROJECT_DIR$/src/homework4/Runner.java</url>
           <line>49</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework5/Runner.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/homework3/city/ex4/House.java</url>

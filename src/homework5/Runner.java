@@ -8,6 +8,20 @@ import java.util.regex.Pattern;
 
 public class Runner {
     public static void main(String[] args) throws FileNotFoundException {
+        int number = 0;
+        while (number < 10) {
+            if (number == 0) {
+                continue;
+            }
+            number++;
+        }
+        System.out.println(number);
+        Object object = null;
+        try {
+            System.out.println(object.toString());
+        } catch (Exception e) {
+            System.out.println("Ошибка!");
+        }
         ex1();
     }
 
